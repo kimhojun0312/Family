@@ -31,62 +31,62 @@
 					<div id="main">
 						<article class="thumb">
 							<a href="new/images/fulls/ami1.jpg" class="image"><img src="new/images/thumbs/ami1.jpg" alt="" /></a>
-							<h2>Magna feugiat lorem</h2>
+							<h2>키우치 아미 머리</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
 							<a href="new/images/fulls/ami2.jpg" class="image"><img src="new/images/thumbs/ami2.jpg" alt="" /></a>
-							<h2>Nisl adipiscing</h2>
+							<h2>키우치 아미 머리</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
 							<a href="new/images/fulls/ami3.jpg" class="image"><img src="new/images/thumbs/ami3.jpg" alt="" /></a>
-							<h2>Tempus aliquam veroeros</h2>
+							<h2>키우치 아미 게임</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
 							<a href="new/images/fulls/ami4.jpg" class="image"><img src="new/images/thumbs/ami4.jpg" alt="" /></a>
-							<h2>Aliquam ipsum sed dolore</h2>
+							<h2>키우치 아미 엉덩이</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
 							<a href="new/images/fulls/ami5.jpg" class="image"><img src="new/images/thumbs/ami5.jpg" alt="" /></a>
-							<h2>Cursis aliquam nisl</h2>
+							<h2>워싱턴 온나</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
 							<a href="new/images/fulls/ami6.jpg" class="image"><img src="new/images/thumbs/ami6.jpg" alt="" /></a>
-							<h2>Sed consequat phasellus</h2>
+							<h2>키우치 아미 생일</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
 							<a href="new/images/fulls/ami7.jpg" class="image"><img src="new/images/thumbs/ami7.jpg" alt="" /></a>
-							<h2>Mauris id tellus arcu</h2>
+							<h2>라쿤</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
 							<a href="new/images/fulls/ami8.jpg" class="image"><img src="new/images/thumbs/ami8.jpg" alt="" /></a>
-							<h2>Nunc vehicula id nulla</h2>
+							<h2>중국  뚱뚱보</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
 							<a href="new/images/fulls/ami9.jpg" class="image"><img src="new/images/thumbs/ami9.jpg" alt="" /></a>
-							<h2>Neque et faucibus viverra</h2>
+							<h2>키우치 아미 생일 선물</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
 							<a href="new/images/fulls/ami10.jpg" class="image"><img src="new/images/thumbs/ami10.jpg" alt="" /></a>
-							<h2>Mattis ante fermentum</h2>
+							<h2>바질</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
 							<a href="new/images/fulls/ami11.jpg" class="image"><img src="new/images/thumbs/ami11.jpg" alt="" /></a>
-							<h2>Sed ac elementum arcu</h2>
+							<h2>사기노미아</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
 							<a href="new/images/fulls/ami12.jpg" class="image"><img src="new/images/thumbs/ami12.jpg" alt="" /></a>
-							<h2>Vehicula id nulla dignissim</h2>
+							<h2>귀엽네</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 					</div>
