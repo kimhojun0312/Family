@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'HojunFamily'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7d231ac6c191422891747ef81e363355 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_46e0e570b46448898761aa03974f9aa2 }}
         package: .
