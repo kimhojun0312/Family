@@ -30,62 +30,62 @@
 				<!-- Main -->
 					<div id="main">
 						<article class="thumb">
-							<a href="images/fulls/ami1.jpg" class="image"><img src="images/thumbs/ami1.jpg" alt="" /></a>
+							<a href="new/images/fulls/ami1.jpg" class="image"><img src="new/images/thumbs/ami1.jpg" alt="" /></a>
 							<h2>Magna feugiat lorem</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
-							<a href="images/fulls/ami2.jpg" class="image"><img src="images/thumbs/ami2.jpg" alt="" /></a>
+							<a href="new/images/fulls/ami2.jpg" class="image"><img src="new/images/thumbs/ami2.jpg" alt="" /></a>
 							<h2>Nisl adipiscing</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
-							<a href="images/fulls/ami3.jpg" class="image"><img src="images/thumbs/ami3.jpg" alt="" /></a>
+							<a href="new/images/fulls/ami3.jpg" class="image"><img src="new/images/thumbs/ami3.jpg" alt="" /></a>
 							<h2>Tempus aliquam veroeros</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
-							<a href="images/fulls/ami4.jpg" class="image"><img src="images/thumbs/ami4.jpg" alt="" /></a>
+							<a href="new/images/fulls/ami4.jpg" class="image"><img src="new/images/thumbs/ami4.jpg" alt="" /></a>
 							<h2>Aliquam ipsum sed dolore</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
-							<a href="images/fulls/ami5.jpg" class="image"><img src="images/thumbs/ami5.jpg" alt="" /></a>
+							<a href="new/images/fulls/ami5.jpg" class="image"><img src="new/images/thumbs/ami5.jpg" alt="" /></a>
 							<h2>Cursis aliquam nisl</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
-							<a href="images/fulls/ami6.jpg" class="image"><img src="images/thumbs/ami6.jpg" alt="" /></a>
+							<a href="new/images/fulls/ami6.jpg" class="image"><img src="new/images/thumbs/ami6.jpg" alt="" /></a>
 							<h2>Sed consequat phasellus</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
-							<a href="images/fulls/ami7.jpg" class="image"><img src="images/thumbs/ami7.jpg" alt="" /></a>
+							<a href="new/images/fulls/ami7.jpg" class="image"><img src="new/images/thumbs/ami7.jpg" alt="" /></a>
 							<h2>Mauris id tellus arcu</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
-							<a href="images/fulls/ami8.jpg" class="image"><img src="images/thumbs/ami8.jpg" alt="" /></a>
+							<a href="new/images/fulls/ami8.jpg" class="image"><img src="new/images/thumbs/ami8.jpg" alt="" /></a>
 							<h2>Nunc vehicula id nulla</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
-							<a href="new/images/fulls/ami9.jpg" class="image"><img src="images/thumbs/ami9.jpg" alt="" /></a>
+							<a href="new/images/fulls/ami9.jpg" class="image"><img src="new/images/thumbs/ami9.jpg" alt="" /></a>
 							<h2>Neque et faucibus viverra</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
-							<a href="images/fulls/ami10.jpg" class="image"><img src="images/thumbs/ami10.jpg" alt="" /></a>
+							<a href="new/images/fulls/ami10.jpg" class="image"><img src="new/images/thumbs/ami10.jpg" alt="" /></a>
 							<h2>Mattis ante fermentum</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
-							<a href="images/fulls/ami11.jpg" class="image"><img src="images/thumbs/ami11.jpg" alt="" /></a>
+							<a href="new/images/fulls/ami11.jpg" class="image"><img src="new/images/thumbs/ami11.jpg" alt="" /></a>
 							<h2>Sed ac elementum arcu</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
-							<a href="images/fulls/ami12.jpg" class="image"><img src="images/thumbs/ami12.jpg" alt="" /></a>
+							<a href="new/images/fulls/ami12.jpg" class="image"><img src="new/images/thumbs/ami12.jpg" alt="" /></a>
 							<h2>Vehicula id nulla dignissim</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
