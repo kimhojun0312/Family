@@ -68,6 +68,45 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Main.aspx" />
+    <Content Include="new\assets\css\fontawesome-all.min.css" />
+    <Content Include="new\assets\css\images\arrow.svg" />
+    <Content Include="new\assets\css\images\close.svg" />
+    <Content Include="new\assets\css\images\spinner.svg" />
+    <Content Include="new\assets\css\main.css" />
+    <Content Include="new\assets\css\noscript.css" />
+    <Content Include="new\assets\js\breakpoints.min.js" />
+    <Content Include="new\assets\js\browser.min.js" />
+    <Content Include="new\assets\js\jquery.min.js" />
+    <Content Include="new\assets\js\jquery.poptrox.min.js" />
+    <Content Include="new\assets\js\main.js" />
+    <Content Include="new\assets\js\util.js" />
+    <Content Include="new\assets\webfonts\fa-brands-400.svg" />
+    <Content Include="new\assets\webfonts\fa-regular-400.svg" />
+    <Content Include="new\assets\webfonts\fa-solid-900.svg" />
+    <Content Include="new\images\fulls\01.jpg" />
+    <Content Include="new\images\fulls\02.jpg" />
+    <Content Include="new\images\fulls\03.jpg" />
+    <Content Include="new\images\fulls\04.jpg" />
+    <Content Include="new\images\fulls\05.jpg" />
+    <Content Include="new\images\fulls\06.jpg" />
+    <Content Include="new\images\fulls\07.jpg" />
+    <Content Include="new\images\fulls\08.jpg" />
+    <Content Include="new\images\fulls\09.jpg" />
+    <Content Include="new\images\fulls\10.jpg" />
+    <Content Include="new\images\fulls\11.jpg" />
+    <Content Include="new\images\fulls\12.jpg" />
+    <Content Include="new\images\thumbs\01.jpg" />
+    <Content Include="new\images\thumbs\02.jpg" />
+    <Content Include="new\images\thumbs\03.jpg" />
+    <Content Include="new\images\thumbs\04.jpg" />
+    <Content Include="new\images\thumbs\05.jpg" />
+    <Content Include="new\images\thumbs\06.jpg" />
+    <Content Include="new\images\thumbs\07.jpg" />
+    <Content Include="new\images\thumbs\08.jpg" />
+    <Content Include="new\images\thumbs\09.jpg" />
+    <Content Include="new\images\thumbs\10.jpg" />
+    <Content Include="new\images\thumbs\11.jpg" />
+    <Content Include="new\images\thumbs\12.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -81,6 +120,42 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="new\assets\sass\base\_page.scss" />
+    <Content Include="new\assets\sass\base\_reset.scss" />
+    <Content Include="new\assets\sass\base\_typography.scss" />
+    <Content Include="new\assets\sass\components\_actions.scss" />
+    <Content Include="new\assets\sass\components\_button.scss" />
+    <Content Include="new\assets\sass\components\_form.scss" />
+    <Content Include="new\assets\sass\components\_icon.scss" />
+    <Content Include="new\assets\sass\components\_icons.scss" />
+    <Content Include="new\assets\sass\components\_list.scss" />
+    <Content Include="new\assets\sass\components\_panel.scss" />
+    <Content Include="new\assets\sass\components\_poptrox-popup.scss" />
+    <Content Include="new\assets\sass\components\_table.scss" />
+    <Content Include="new\assets\sass\layout\_footer.scss" />
+    <Content Include="new\assets\sass\layout\_header.scss" />
+    <Content Include="new\assets\sass\layout\_main.scss" />
+    <Content Include="new\assets\sass\layout\_wrapper.scss" />
+    <Content Include="new\assets\sass\libs\_breakpoints.scss" />
+    <Content Include="new\assets\sass\libs\_functions.scss" />
+    <Content Include="new\assets\sass\libs\_mixins.scss" />
+    <Content Include="new\assets\sass\libs\_vars.scss" />
+    <Content Include="new\assets\sass\libs\_vendor.scss" />
+    <Content Include="new\assets\sass\main.scss" />
+    <Content Include="new\assets\sass\noscript.scss" />
+    <Content Include="new\assets\webfonts\fa-brands-400.eot" />
+    <Content Include="new\assets\webfonts\fa-brands-400.ttf" />
+    <Content Include="new\assets\webfonts\fa-brands-400.woff" />
+    <Content Include="new\assets\webfonts\fa-brands-400.woff2" />
+    <Content Include="new\assets\webfonts\fa-regular-400.eot" />
+    <Content Include="new\assets\webfonts\fa-regular-400.ttf" />
+    <Content Include="new\assets\webfonts\fa-regular-400.woff" />
+    <Content Include="new\assets\webfonts\fa-regular-400.woff2" />
+    <Content Include="new\assets\webfonts\fa-solid-900.eot" />
+    <Content Include="new\assets\webfonts\fa-solid-900.ttf" />
+    <Content Include="new\assets\webfonts\fa-solid-900.woff" />
+    <Content Include="new\assets\webfonts\fa-solid-900.woff2" />
+    <Content Include="new\images\fulls\Thumbs.db" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\HojunFamily - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
@@ -90,6 +165,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

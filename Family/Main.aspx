@@ -10,8 +10,8 @@
 		<title>Multiverse by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="new/assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="new/assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
 		<!-- Wrapper -->
@@ -70,7 +70,7 @@
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 						<article class="thumb">
-							<a href="images/fulls/09.jpg" class="image"><img src="images/thumbs/09.jpg" alt="" /></a>
+							<a href="new/images/fulls/09.jpg" class="image"><img src="images/thumbs/09.jpg" alt="" /></a>
 							<h2>Neque et faucibus viverra</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
@@ -141,11 +141,11 @@
 
 			</div>
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.poptrox.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="new/assets/js/jquery.min.js"></script>
+			<script src="new/assets/js/jquery.poptrox.min.js"></script>
+			<script src="new/assets/js/browser.min.js"></script>
+			<script src="new/assets/js/breakpoints.min.js"></script>
+			<script src="new/assets/js/util.js"></script>
+			<script src="new/assets/js/main.js"></script>
 	</body>
 </html>
